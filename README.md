@@ -1,6 +1,6 @@
 # property-management-application-using-Salesforce-
 
-Team Lead-PURUSOTHAMAN S(https://trailblazer.me/id/purusothamans)
+TeamLead-PURUSOTHAMAN S(https://trailblazer.me/id/purusothamans)
 
 Team member1-POOMANI M (https://trailblazer.me/id/pmani208)
 
